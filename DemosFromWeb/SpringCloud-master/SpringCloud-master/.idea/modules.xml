@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot/ServerProvider/ServerProvider.iml" filepath="$PROJECT_DIR$/SpringBoot/ServerProvider/ServerProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud-master.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot/demo/demo.iml" filepath="$PROJECT_DIR$/SpringBoot/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot/ServerConsumer/demo (1).iml" filepath="$PROJECT_DIR$/SpringBoot/ServerConsumer/demo (1).iml" />
+    </modules>
+  </component>
+</project>
